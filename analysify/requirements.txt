@@ -1,0 +1,5 @@
+#Wymagane biblioteki:
+pandas
+matplotlib
+seaborn
+tkinter
